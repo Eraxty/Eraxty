@@ -1,6 +1,8 @@
 # 💫 About Me:
-I’m currently working on: Project Atlas, a Usenet indexer<br>I’m looking to collaborate on: Open-source projects<br>Ask me about: Linux, gaming & programming<br>Fun fact: I make way too many projects at 2 AM
-
+🔨 I’m currently working on: Project Atlas, a Usenet indexer  
+🤝 I’m looking to collaborate on: Open-source projects  
+💬 Ask me about: Linux, gaming & programming  
+⚡ Fun fact: I make way too many projects at 2 AM
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardik_rajotiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardikrajotiyamars@gmail.com) 
