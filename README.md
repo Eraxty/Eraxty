@@ -21,7 +21,7 @@ Fun fact: I make way too many projects at 2 AM
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Eraxty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Eraxty&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔝 Support Here
+https://patreon.com/Eraxty?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
