@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔨 I’m currently working on: Project Atlas, a Usenet indexer  
-🤝 I’m looking to collaborate on: Open-source projects  
-💬 Ask me about: Linux, gaming & programming  
-⚡ Fun fact: I make way too many projects at 2 AM
+I’m currently working on: Project Atlas, a Usenet indexer  
+looking to collaborate on: Open-source projects  
+Ask me anything about: Linux, gaming & programming  
+
+Fun fact: I make way too many projects at 2 AM
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eraxtydev@gmail.com)
